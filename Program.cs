@@ -9,22 +9,20 @@ namespace vn_mode_csharp_dz_39
         {
             Player player1 = new Player();
             Renderer renderer = new Renderer();
-            renderer.GetPlayerCoordinates();
+            renderer.GetCoordinatePlayer(player1.CoordinateX, player1.CoordinateY);
         }
 
         class Player
         {
-            protected int _x = 10;
-            protected int _y = 10;
+            public int CoordinateX = 10;
+            public int CoordinateY = 10;
         }
-
-        class Renderer : Player
+        class Renderer
         {
-            private char Player = '@';
-
-            public void GetPlayerCoordinates()
+            char Player = '@';
+            public void GetCoordinatePlayer(int coordinateX, int coordinateY)
             {
-                Console.SetCursorPosition(_x, _y);
+                Console.SetCursorPosition(coordinateX, coordinateY);
                 Console.Write(Player);
             }
         }
