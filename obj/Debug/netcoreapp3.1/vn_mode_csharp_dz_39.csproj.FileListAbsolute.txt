@@ -1,0 +1,14 @@
+/Users/vitalii/Documents/Программирование/ijunior/C#/vn_mode_csharp_dz_39/vn_mode_csharp_dz_39/bin/Debug/netcoreapp3.1/vn_mode_csharp_dz_39
+/Users/vitalii/Documents/Программирование/ijunior/C#/vn_mode_csharp_dz_39/vn_mode_csharp_dz_39/bin/Debug/netcoreapp3.1/vn_mode_csharp_dz_39.deps.json
+/Users/vitalii/Documents/Программирование/ijunior/C#/vn_mode_csharp_dz_39/vn_mode_csharp_dz_39/bin/Debug/netcoreapp3.1/vn_mode_csharp_dz_39.runtimeconfig.json
+/Users/vitalii/Documents/Программирование/ijunior/C#/vn_mode_csharp_dz_39/vn_mode_csharp_dz_39/bin/Debug/netcoreapp3.1/vn_mode_csharp_dz_39.runtimeconfig.dev.json
+/Users/vitalii/Documents/Программирование/ijunior/C#/vn_mode_csharp_dz_39/vn_mode_csharp_dz_39/bin/Debug/netcoreapp3.1/vn_mode_csharp_dz_39.dll
+/Users/vitalii/Documents/Программирование/ijunior/C#/vn_mode_csharp_dz_39/vn_mode_csharp_dz_39/bin/Debug/netcoreapp3.1/vn_mode_csharp_dz_39.pdb
+/Users/vitalii/Documents/Программирование/ijunior/C#/vn_mode_csharp_dz_39/vn_mode_csharp_dz_39/obj/Debug/netcoreapp3.1/vn_mode_csharp_dz_39.csproj.AssemblyReference.cache
+/Users/vitalii/Documents/Программирование/ijunior/C#/vn_mode_csharp_dz_39/vn_mode_csharp_dz_39/obj/Debug/netcoreapp3.1/vn_mode_csharp_dz_39.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vitalii/Documents/Программирование/ijunior/C#/vn_mode_csharp_dz_39/vn_mode_csharp_dz_39/obj/Debug/netcoreapp3.1/vn_mode_csharp_dz_39.AssemblyInfoInputs.cache
+/Users/vitalii/Documents/Программирование/ijunior/C#/vn_mode_csharp_dz_39/vn_mode_csharp_dz_39/obj/Debug/netcoreapp3.1/vn_mode_csharp_dz_39.AssemblyInfo.cs
+/Users/vitalii/Documents/Программирование/ijunior/C#/vn_mode_csharp_dz_39/vn_mode_csharp_dz_39/obj/Debug/netcoreapp3.1/vn_mode_csharp_dz_39.csproj.CoreCompileInputs.cache
+/Users/vitalii/Documents/Программирование/ijunior/C#/vn_mode_csharp_dz_39/vn_mode_csharp_dz_39/obj/Debug/netcoreapp3.1/vn_mode_csharp_dz_39.dll
+/Users/vitalii/Documents/Программирование/ijunior/C#/vn_mode_csharp_dz_39/vn_mode_csharp_dz_39/obj/Debug/netcoreapp3.1/vn_mode_csharp_dz_39.pdb
+/Users/vitalii/Documents/Программирование/ijunior/C#/vn_mode_csharp_dz_39/vn_mode_csharp_dz_39/obj/Debug/netcoreapp3.1/vn_mode_csharp_dz_39.genruntimeconfig.cache
