@@ -7,22 +7,28 @@ namespace vn_mode_csharp_dz_39
     {
         static void Main(string[] args)
         {
-            Player player1 = new Player();
+            Player player1 = new Player(10, 10);
             Renderer renderer = new Renderer();
-            renderer.GetCoordinatePlayer();
+            renderer.GetCoordinatePlayer(player1.CoordinateX, player1.CoordinateY);
         }
 
         class Player
         {
-            protected int CoordinateX = 10;
-            protected int CoordinateY = 10;
+            public int CoordinateX { get; private set; }
+            public int CoordinateY { get; private set; }
+
+            public Player(int coordinateX, int coordinateY)
+            {
+                CoordinateX = coordinateX;
+                CoordinateY = coordinateY;
+            }
         }
-        class Renderer : Player
+        class Renderer
         {
             char Player = '@';
-            public void GetCoordinatePlayer()
+            public void GetCoordinatePlayer(int coordinateX, int coordinateY)
             {
-                Console.SetCursorPosition(CoordinateX, CoordinateY);
+                Console.SetCursorPosition(coordinateX, coordinateY);
                 Console.Write(Player);
             }
         }
