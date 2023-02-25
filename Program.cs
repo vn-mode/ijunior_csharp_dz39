@@ -14,15 +14,17 @@ namespace vn_mode_csharp_dz_39
 
         class Player
         {
-            public int CoordinateX { get; private set; }
-            public int CoordinateY { get; private set; }
-
             public Player(int coordinateX, int coordinateY)
             {
                 CoordinateX = coordinateX;
                 CoordinateY = coordinateY;
             }
+
+            public int CoordinateX { get; private set; }
+            public int CoordinateY { get; private set; }
+
         }
+
         class Renderer
         {
             char Player = '@';
